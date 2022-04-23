@@ -1,0 +1,2 @@
+# nodejs-login-form
+A simple Node.js login and register system done with JavaScript, Node.js, Express, passport, bcrypt and nodemon. When acessing the home page, the user will be redirected to the register page, create a user, then redirected to the login page, login on his account, then redirected again to the home page, with a warmful Hi there welcome message. If the user exits the session and goes back to the page, we will be redirected to the register page and repeat the procces again.
